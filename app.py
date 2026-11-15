@@ -1,4 +1,4 @@
-    st.write("Add PDF, DOCX or TXT files. UniMind AI extracts text, creates embeddings and updates the FAISS index.")
+    
     uploads = st.file_uploader(
         "Choose one or more files",
         type=["pdf", "docx", "txt"],
